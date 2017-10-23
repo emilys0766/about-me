@@ -4,14 +4,14 @@
 ### **Email**: emilys0766@hstat.org
 ### **School**: [Telecommunications](hstat.org) (HSTAT)
 ### **Bio**:
-    -**A student at HSTAT**
-    -**Hobbies include:**
+#####    - **A student at HSTAT**
+#####     - **Hobbies include:**
         - Drawing
         - Cooking
         - Learning the electric bass
         - Play videogames and watch anime
         - Hanging out with friends
-    **-Favorites:**
+#####     **- Favorites:**
         - Color: Blue
         - Season: Winter
         - Drink: Soda
@@ -20,14 +20,14 @@
 ---
 
 ### **Schedule:**
-    1. _Period 1_ - Spanish
-    2. _Period 2_ - SEP
-    3. _Period 3_ - U.S. History
-    4. _Period 4_ - Physics
-    5. _Period 5_ - Pre-Calc
-    6. _Period 6_ - Lunch
-    7. _Period 7_ - English
-    8. _Period 8_ - Finacial Math
+  ######  _1. Period 1 - Spanish_
+  ######  _2. Period 2 - SEP_
+  ######  _3. Period 3 - U.S. History_
+  ######  _4. Period 4 - Physics_
+  ######  _5. Period 5 - Pre-Calc_
+  ######  _6. Period 6 - Lunch_
+  ######  _7. Period 7 - English_
+  ######  _8. Period 8 - Finacial Math_
 
 ---
 
