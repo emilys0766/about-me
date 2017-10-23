@@ -2,16 +2,32 @@
 
 ### **Name**: Emily Saloma
 ### **Email**: emilys0766@hstat.org
-### **School**: Telecommunications (HSTAT)
-### **Bio**: A student at HSTAT who likes to draw and play the electric bass.
-### **Schedule**: 
-* ###### Period 1- Spanish
-* ###### Period 2- SEP
-* ###### Period 3- History 
-* ###### Period 4- Physics 
-* ###### Period 5- Math
-* ###### Period 6- Lunch
-* ###### Period 7- English, Period 8- Finacial Math
+### **School**: [Telecommunications](hstat.org) (HSTAT)
+### **Bio**:
+    -**A student at HSTAT**
+    -**Hobbies include:**
+        - Drawing
+        - Cooking
+        - Learning the electric bass
+        - Play videogames and watch anime
+        - Hanging out with friends
+    **-Favorites:**
+        - Color: Blue
+        - Season: Winter
+        - Drink: Soda
+        - Subject: Math
+    
+---
+
+### **Schedule:**
+    1. _Period 1_ - Spanish
+    2. _Period 2_ - SEP
+    3. _Period 3_ - U.S. History
+    4. _Period 4_ - Physics
+    5. _Period 5_ - Pre-Calc
+    6. _Period 6_ - Lunch
+    7. _Period 7_ - English
+    8. _Period 8_ - Finacial Math
 
 ---
 
